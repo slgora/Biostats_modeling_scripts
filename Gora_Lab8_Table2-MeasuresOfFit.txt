@@ -1,0 +1,2 @@
+"ChiSquare" "RMSEA" "GFI"
+"1" 0.081 0 0.999
